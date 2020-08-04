@@ -9,6 +9,6 @@
   font-size: 10px;
   padding: 0 5px;
 }/*Tutaj jest img[src*="538745942493495298"]- ID Użytkownika oraz "Plugin na tagi!"; tag */
-.contents-2mQqc9 > img[src*="702931803542913044"] ~ .header-23xsNx > .username-1A8OIy::after {
+.contents-2mQqc9 > img[src*="538745942493495298"] ~ .header-23xsNx > .username-1A8OIy::after {
   content: "Plugin na tagi!";
 }
