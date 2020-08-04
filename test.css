@@ -1,0 +1,19 @@
+/* Friend list boxes */
+
+.peopleListItem-2nzedh, .peopleListItem-2nzedh:hover {
+	height: 60px !important;
+	width: 320px;
+	display: inline-grid;	
+	padding: 0 10px;
+	margin: 15px;
+	border-radius: 15px;
+	box-shadow: 0 0 0 2px var(--main-color) inset;
+}
+
+.peopleListItem-2nzedh {
+	background-color: rgba(0,0,0,0.2);
+}	
+
+.userInfo-2zN2z8 {
+	max-width: 190px;
+}
