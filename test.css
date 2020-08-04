@@ -8,7 +8,7 @@
   background-color: rgba(255, 255, 255, 0.07);
   font-size: 10px;
   padding: 0 5px;
-}/*Tutaj jest img[src*="538745942493495298"]- ID Użytkownika oraz "Plugin na tagi!"; tag */
+}
 .contents-2mQqc9 > img[src*="538745942493495298"] ~ .header-23xsNx > .username-1A8OIy::after {
   content: "Twórca Motywu";
 }
