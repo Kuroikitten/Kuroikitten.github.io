@@ -210,3 +210,9 @@
     text-align: right;
     transform: translateX(50%);
 }
+.flex-1O1GKY {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    justify-content: center;
+}
