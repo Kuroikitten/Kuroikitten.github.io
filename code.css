@@ -27,3 +27,7 @@
 .contents-2mQqc9 > img[src*="692310096474275881"] ~ .header-23xsNx > .username-1A8OIy::after {
   content: "Administrator Flower";
 }
+.contents-2mQqc9 > img[src*="511970066330419210"] ~ .header-23xsNx > .username-1A8OIy::after {
+  content: "Młodszy Administrator Flower";
+}
+
