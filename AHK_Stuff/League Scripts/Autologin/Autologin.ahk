@@ -10,6 +10,7 @@ Loop
 Until ErrorLevel = 0
 If (ErrorLevel = 0)
 {
+    Gui +AlwaysOnTop
     Gui, Add, Button, x12 y9 w100 h30 gLive, Live
     Gui, Add, Button, x122 y9 w100 h30 gPBE, PBE
     Gui, Show, x622 y333 h51 w237, Autologin
@@ -110,6 +111,10 @@ If (ErrorLevel = 0)
     Send, {Numpad9}
     Sleep, 100
     Send, {Enter}
+    WinMinimize, Autologin
+    Sleep, 10000
+    Run, %A_WorkingDir%\Relogin.ahk
+    Sleep, 100
     WinClose, Autologin
     Return
 
@@ -200,6 +205,10 @@ If (ErrorLevel = 0)
     Send, {Numpad9}
     Sleep, 30
     Send, {Enter}
+    WinMinimize, Autologin
+    Sleep, 10000
+    Run, %A_WorkingDir%\Relogin.ahk
+    Sleep, 100
     WinClose, Autologin
     Return
 }
