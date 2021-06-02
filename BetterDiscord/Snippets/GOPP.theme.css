@@ -1,0 +1,31 @@
+/**
+ * @name Good Old Profile Pictures
+ * @author Ergon Sahar
+ * @version 1.0
+ * @description Changes the User Popout to make it look more like in previous versions of discord.
+ */
+
+/*Ukrycie gradientu u góry Okna Użytkownika*/
+
+.userPopout-3XzG_A .profileBanner-33-uE1 {
+    -webkit-mask: linear-gradient(to bottom, #0000, transparent 100%);
+}
+
+/*Wyśrodkowanie tekstu,zdjęcia profilowego i odznak w oknie użytkownika*/
+
+.userPopout-3XzG_A .headerNormal-1l1Znk {
+    text-align: center;
+}
+.avatarPositionNormal-1CZUPk {
+    margin-left: 30%;
+}
+.profileBadges-1dm1_q {
+    top: -7px;
+    position: relative;
+}
+.flex-1O1GKY {
+    justify-content: center;
+}
+.bodyTitle-Y0qMQz {
+    text-align: center;
+}
