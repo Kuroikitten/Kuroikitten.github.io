@@ -2,28 +2,21 @@
 :root {
 
 	/* ACCENT COLORS */
-	--main-color: #e3582d; /* main accent color (hex, rgb or hsl) [default: #2780e6] */
-	--hover-color: #632714; /* hover accent color (hex, rgb or hsl) [default: #1e63b3] */
+	--main-color: #b62929; /* main accent color (hex, rgb or hsl) [default: #2780e6] */
+	--hover-color: #2e0000; /* hover accent color (hex, rgb or hsl) [default: #1e63b3] */
 	--success-color: #43b581; /* success accent color (hex, rgb or hsl) [default: #43b581] */
 	--danger-color: #982929; /* danger accent color (hex, rgb or hsl) [default: #982929] */
 	
 	/* Customization Patch */
-	--channel-unread: #ed6d42; /* Unread Server channel color. [default:  var(--main-color)] THIS OVERRIDES YOUR MAIN COLOR*/
+	--channel-unread: #ff0000; /* Unread Server channel color. [default:  var(--main-color)] THIS OVERRIDES YOUR MAIN COLOR*/
 	--channel-color:  rgba(255,255,255,0.7); /*Read Server channel color  [default: rgba(255,255,255,0.3);]*/
 	--channel-text-selected: #fff; /* Selected channel text color, CV default is #fff */
 	--muted-color: rgba(255,255,255,0.3); /*Muted channel color  [default: rgba(255,255,255,0.1);]*/
-	--url-color: #ff7e29; /*The color of url links [default: var(--main-color)]*/ 
+	--url-color: #ff4141; /*The color of url links [default: var(--main-color)]*/ 
 
     /* Ergon's Patch */	
     --background-secondary: rgba(0,0,0,0.3); /*Lower background color in the themes and plugins list*/
 	--background-secondary-alt: rgba(0,0,0,0.3); /*Upper background color in the themes and plugins list*/
-
-	/* STATUS COLORS */
-	--online-color: #ff7e29; /* online status color (hex, rgb or hsl) [default: #43b581] */
-	--idle-color: #faa61a; /* idle status color (hex, rgb or hsl) [default: #faa61a] */
-	--dnd-color: #982929; /* dnd status color (hex, rgb or hsl) [default: #982929] */
-	--streaming-color: #593695; /* streaming status color (hex, rgb or hsl) [default: #593695] */
-	--offline-color: #808080; /* offline/invisible status color (hex, rgb or hsl) [default: #808080] */
 
 	/* GENERAL */
 	--main-font: Whitney, Helvetica Neue, Helvetica, Arial, sans-serif; /* main font for app (font must be installed) [default: Whitney, Helvetica Neue, Helvetica, Arial, sans-serif] */
@@ -35,17 +28,17 @@
 
 	/* APP BACKGROUND */
 	--background-shading: 60%; /* app background shading (0 for complete smoothness) [default: 100%] */
-	--background-overlay: rgba(41, 28, 7, 0.3); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
+	--background-overlay: rgba(0, 0, 0, 0.671); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
 	--background-image: url(https://i.ibb.co/VNKXHdj/57f1999377e0695c0e4ac83bbf7b6a4e.jpg); /* app background image (link must be HTTPS) [default: url(https://clearvision.gitlab.io/images/sapphire.jpg)]*/
 	--background-position: center; /* app background position [default: center] */
 	--background-size: cover; /* app background size [default: cover] */
 	--background-repeat: no-repeat; /* app background repeat [default: no-repeat] */
 	--background-attachment: fixed; /* app background attachment [default: fixed] */
-	--background-brightness: 70%; /* app background brightness (< 100% for darken, > 100% for lighten) [default: 100%] */
-	--background-contrast: 100%; /* app background contrast [default: 100%] */
-	--background-saturation: 100%; /* app background saturation [default: 100%] */
+	--background-brightness: 100%; /* app background brightness (< 100% for darken, > 100% for lighten) [default: 100%] */
+	--background-contrast: 120%; /* app background contrast [default: 100%] */
+	--background-saturation: 130%; /* app background saturation [default: 100%] */
 	--background-invert: 0%; /* app background invert (0 - 100%)  [default: 0%] */
-	--background-grayscale: 20%; /* app background grayscale ( 0 - 100%) [default: 0%] */
+	--background-grayscale: 0%; /* app background grayscale ( 0 - 100%) [default: 0%] */
 	--background-sepia: 0%; /* app background sepia (0 - 100%) [default: 0%] */
 	--background-blur: 0px; /* app background blur [default: 0px] */
 	
@@ -70,21 +63,21 @@
 	--backdrop-blur: var(--background-blur); /* modal backdrop blur [default: var(--background-blur)] */
 	
 	/* USER POPOUT BACKGROUND */
-	--user-popout-image: url(https://b.catgirlsare.sexy/tStaUEwI.png); /* app background image (link must be HTTPS) [default: var(---background-image)] */
-	--user-popout-position: right; /* user popout background position [default: var(---background-position)] */
+	--user-popout-image: url(https://i.ibb.co/ngmgdmq/wallpaperflare-com-wallpaper.jpg); /* app background image (link must be HTTPS) [default: var(---background-image)] */
+	--user-popout-position: center; /* user popout background position [default: var(---background-position)] */
 	--user-popout-size: var(--background-size); /* user popout background size [default: var(---background-size)] */
 	--user-popout-repeat: var(--background-repeat); /* user popout background repeat [default: var(---background-repeat)] */
 	--user-popout-attachment: scroll; /* user popout background attachment [default: var(--background-attachment)] */
-	--user-popout-brightness: 30%; /* user popout background brightness (< 100% for darken, > 100% for lighten) [default: var(---background-brightness)] */
+	--user-popout-brightness: 100%; /* user popout background brightness (< 100% for darken, > 100% for lighten) [default: var(---background-brightness)] */
 	--user-popout-contrast: var(--background-contrast); /* user popout background contrast [default: var(---background-contrast)] */
 	--user-popout-saturation: var(--background-saturation); /* user popout background saturation [default: var(---background-saturation)] */
 	--user-popout-invert: var(--background-invert); /* user popout background invert (0 - 100%) [default: var(---background-invert)] */
-	--user-popout-grayscale: var(--background-grayscale); /* user popout background grayscale (0 - 100%) [default: var(---background-grayscale)] */
+	--user-popout-grayscale: 100%; /* user popout background grayscale (0 - 100%) [default: var(---background-grayscale)] */
 	--user-popout-sepia: var(--background-sepia); /* user popout background sepia (0 - 100%) [default: var(---background-sepia)] */
-	--user-popout-blur: 2px; /* user popout background blur [default: calc(var(--background-blur) + 3px)] */
+	--user-popout-blur: 1px; /* user popout background blur [default: calc(var(--background-blur) + 3px)] */
 	
 	/* USER MODAL BACKGROUND */
-	--user-modal-image: url(https://b.catgirlsare.sexy/uDLn5oPS.jpg); /* app background image (link must be HTTPS) [default: var(---background-image)] */
+	--user-modal-image: url(https://i.ibb.co/m0yvLSt/dark-wallpaper-cyberpunk-girl-by-kiyoshi-sempai-ddqoem1-pre.jpg); /* app background image (link must be HTTPS) [default: var(---background-image)] */
 	--user-modal-position: var(--background-position); /* user modal background position [default: var(---background-position)] */
 	--user-modal-size: var(--background-size); /* user modal background size [default: var(---background-size)] */
 	--user-modal-repeat: var(--background-repeat); /* user modal background repeat [default: var(---background-repeat)] */
@@ -113,96 +106,4 @@
     --rs-offline-color: #636b75;  /* color for offline status */
     --rs-streaming-color: #643da7;  /* color for streaming status */
     --rs-invisible-color: #747f8d;  /* color for invisible status - Note this will only show for your own invisibility */
-}
-
-
-
-/*Snippety własne*/
-
-	/*Ukrycie gradientu u góry Okna Użytkownika*/
-	
-.userPopout-xaxa6l .popoutBanner-19WKGg {
-	-webkit-mask: linear-gradient(to bottom, #0000, transparent 100%);
-	mask: linear-gradient(to bottom, #000, transparent 100%);
-}
-
-	/*Cień tekstu w nawach kanałów, użytkowników itd. dla widoczności*/
-	
-.channelName-2YrOjO, .subtitle-3V1p2E {
-    text-shadow: 1px 1px 3px black;
-}
-.voiceUser-1K6Xox .username-3KYl0N {
-    text-shadow: 1px 1px 3px black;
-}
-.members-1998pB .member-3-YXUe .roleColor-rz2vM0 {
-    text-shadow: 1px 1px 3px black;
-}
-.members-1998pB [style*="color:"].membersGroup-v9BXpm {
-    text-shadow: 1px 1px 3px black;
-}
-.overflow-WK9Ogt {
-    text-shadow: 1px 1px 3px black;
-}
-.standardSidebarView-3F1I7i, .standardSidebarView-3F1I7i * {
-    text-shadow: 1px 1px 3px black;
-}
-.message-2qnXI6 .markup-2BOw-j {
-    color: var(--text-normal);
-	text-shadow: 1px 1px 3px black;
-}
-
-	/*Poprawka przezroczystości przycisków wyciszenia i ustawień*/
-	
-.container-3baos1 > .flex-1O1GKY, .container-1giJp5 > .flex-1O1GKY {
-    background: rgba(0, 0, 0, 0.44);
-    border-radius: 15px;
-}
-
-	/*Usunięcie ClearVision z paska u góry, oraz pod ustawieniami*/
-	
-.typeWindows-1za-n7 > .wordmark-2iDDfm:before {
-    content: " ";
-    color: rgba(255, 255, 255, 0.7);
-    font-size: 14px;
-    text-shadow: 0 0 3px #000;
-}
-.typeWindows-1za-n7 > .wordmark-2iDDfm:after {
-    content: " ";
-    color: rgba(255, 255, 255, 0.3);
-    font-family: var(--code-font);
-    font-size: 10px;
-}
-.container-3baos1:before {
-    content: "";
-    right: 50%;
-    text-align: middle;
-    transform: translateX(50%);
-}
-
-/*Wyśrodkowanie tekstu,zdjęcia profilowego i odznak w oknie użytkownika*/
-
-#app-mount .wrapper-3t9DeA[style*="width: 80px;"].avatar-37jOim {
-    margin-left: 90px;
-}
-.avatarHint-2A3RNb {
-margin-left: 90px;
-}
-.profileBadges-3cJaE1 {
-top: 63px;
-}
-.endBodySection-ypd-38 {
-justify-content: center;
-}
-
-/*Przyciemnienie menu prawego przycisku myszy*/
-
-.menu-3sdvDG {
-    background-color: rgba(0, 0, 0, 0.9);
-}
-
-/*usunięcie banneru w oknie profilu użytkownika*/
-
-.profileBanner-33-uE1 {
-    -webkit-mask: linear-gradient(to bottom, #000, transparent 100%);
-    mask: linear-gradient(to bottom, #000, transparent 100%);
 }

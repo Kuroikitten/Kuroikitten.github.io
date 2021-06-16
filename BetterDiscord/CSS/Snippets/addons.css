@@ -1,0 +1,89 @@
+/*Snippety własne*/
+
+	/*Ukrycie gradientu u góry Okna Użytkownika*/
+	
+    .userPopout-xaxa6l .popoutBanner-19WKGg {
+        -webkit-mask: linear-gradient(to bottom, #0000, transparent 100%);
+        mask: linear-gradient(to bottom, #000, transparent 100%);
+    }
+    
+        /*Cień tekstu w nawach kanałów, użytkowników itd. dla widoczności*/
+        
+    .channelName-2YrOjO, .subtitle-3V1p2E {
+        text-shadow: 1px 1px 3px black;
+    }
+    .voiceUser-1K6Xox .username-3KYl0N {
+        text-shadow: 1px 1px 3px black;
+    }
+    .members-1998pB .member-3-YXUe .roleColor-rz2vM0 {
+        text-shadow: 1px 1px 3px black;
+    }
+    .members-1998pB [style*="color:"].membersGroup-v9BXpm {
+        text-shadow: 1px 1px 3px black;
+    }
+    .overflow-WK9Ogt {
+        text-shadow: 1px 1px 3px black;
+    }
+    .standardSidebarView-3F1I7i, .standardSidebarView-3F1I7i * {
+        text-shadow: 1px 1px 3px black;
+    }
+    .message-2qnXI6 .markup-2BOw-j {
+        color: var(--text-normal);
+        text-shadow: 1px 1px 3px black;
+    }
+    
+        /*Poprawka przezroczystości przycisków wyciszenia i ustawień*/
+        
+    .container-3baos1 > .flex-1O1GKY, .container-1giJp5 > .flex-1O1GKY {
+        background: rgba(0, 0, 0, 0.44);
+        border-radius: 15px;
+    }
+    
+        /*Usunięcie ClearVision z paska u góry, oraz pod ustawieniami*/
+        
+    .typeWindows-1za-n7 > .wordmark-2iDDfm:before {
+        content: " ";
+        color: rgba(255, 255, 255, 0.7);
+        font-size: 14px;
+        text-shadow: 0 0 3px #000;
+    }
+    .typeWindows-1za-n7 > .wordmark-2iDDfm:after {
+        content: " ";
+        color: rgba(255, 255, 255, 0.3);
+        font-family: var(--code-font);
+        font-size: 10px;
+    }
+    .container-3baos1:before {
+        content: "";
+        right: 50%;
+        text-align: middle;
+        transform: translateX(50%);
+    }
+    
+    /*Wyśrodkowanie tekstu,zdjęcia profilowego i odznak w oknie użytkownika*/
+    
+    #app-mount .wrapper-3t9DeA[style*="width: 80px;"].avatar-37jOim {
+        margin-left: 90px;
+    }
+    .avatarHint-2A3RNb {
+    margin-left: 90px;
+    }
+    .profileBadges-3cJaE1 {
+    top: 63px;
+    }
+    .endBodySection-ypd-38 {
+    justify-content: center;
+    }
+    
+    /*Przyciemnienie menu prawego przycisku myszy*/
+    
+    .menu-3sdvDG {
+        background-color: rgba(0, 0, 0, 0.9);
+    }
+    
+    /*usunięcie banneru w oknie profilu użytkownika*/
+    
+    .profileBanner-33-uE1 {
+        -webkit-mask: linear-gradient(to bottom, rgba(0, 0, 0, 0), transparent 100%);
+        mask: linear-gradient(to bottom, rgba(0, 0, 0, 0), transparent 100%);
+    }
