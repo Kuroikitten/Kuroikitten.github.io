@@ -1,4 +1,0 @@
-LCS recognized League!
-Current Version: alpha 1.0
-Author: Ergon Sahar
-Last updated: 29/5/2021

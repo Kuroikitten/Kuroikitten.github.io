@@ -1,2 +1,0 @@
-Umieść zawartość archiwum (.zip) w głównym katalogu (Folderze) gry.
-Uruchom Zmien_Nick.exe i postępuj zgodnie z instrukcjami.
