@@ -1,6 +1,6 @@
 /*Snippety własne*/
     
-        /*Cień tekstu w nawach kanałów, użytkowników itd. dla widoczności*/
+        /*Text Shadow in usernames, channel names etc.*/
         
     .channelName-2YrOjO, .subtitle-3V1p2E {
         text-shadow: 1px 1px 3px black;
