@@ -1,0 +1,23 @@
+{
+	title: "Pomarańczowy!",
+	x: -12.0d,
+	y: -1.0d,
+	text: [
+		"Wytrzymaj... Wytrzymaj..."
+	],
+	dependencies: [
+		"419a0526"
+	],
+	tasks: [{
+		uid: "230178c4",
+		type: "item",
+		items: [{
+			item: "draconicevolution:crafting_injector 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "959cb7d0",
+		type: "ftbmoney:money",
+		ftb_money: 60L
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 3.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "21fab41a",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:stone_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "8c1bcfbe",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

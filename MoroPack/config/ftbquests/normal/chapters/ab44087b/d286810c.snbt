@@ -1,0 +1,20 @@
+{
+	title: "Podwaliłeś crafting z NASA?!",
+	x: 0.0d,
+	y: 0.0d,
+	text: [
+		"Lepiej uciekaj z planety XD"
+	],
+	tasks: [{
+		uid: "9826cd0b",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:rocket_workbench"
+		}]
+	}],
+	rewards: [{
+		uid: "d87e978c",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

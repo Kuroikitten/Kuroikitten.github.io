@@ -1,0 +1,16 @@
+{
+	x: 14.5d,
+	y: -11.0d,
+	tasks: [{
+		uid: "34cb3d6f",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:enderium_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "aa0b02de",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

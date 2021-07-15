@@ -1,0 +1,16 @@
+{
+	x: 31.5d,
+	y: -8.0d,
+	tasks: [{
+		uid: "12a078c8",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:pulsating_iron_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "78e28e4f",
+		type: "ftbmoney:money",
+		ftb_money: 40L
+	}]
+}

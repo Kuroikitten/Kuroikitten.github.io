@@ -1,0 +1,16 @@
+{
+	x: 5.5d,
+	y: -8.0d,
+	tasks: [{
+		uid: "ed39936d",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:amber_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "37bc7b6a",
+		type: "ftbmoney:money",
+		ftb_money: 40L
+	}]
+}

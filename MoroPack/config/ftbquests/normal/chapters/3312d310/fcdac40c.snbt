@@ -1,0 +1,11 @@
+{
+	x: -2.0d,
+	y: 5.5d,
+	tasks: [{
+		uid: "7308eed3",
+		type: "item",
+		items: [{
+			item: "avaritia:endest_pearl"
+		}]
+	}]
+}

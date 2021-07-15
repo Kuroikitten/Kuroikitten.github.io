@@ -1,0 +1,21 @@
+{
+	x: -4.0d,
+	y: 0.0d,
+	dependencies: [
+		"b6512783"
+	],
+	tasks: [{
+		uid: "4c2e252e",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:oxygen_tank_heavy_full 1 2700"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "fcfd8591",
+		type: "ftbmoney:money",
+		ftb_money: 40L
+	}]
+}

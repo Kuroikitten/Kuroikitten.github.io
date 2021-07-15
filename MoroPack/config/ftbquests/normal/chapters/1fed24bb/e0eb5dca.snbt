@@ -1,0 +1,16 @@
+{
+	x: 16.5d,
+	y: -5.0d,
+	tasks: [{
+		uid: "07da9103",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:tin_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "7219d805",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

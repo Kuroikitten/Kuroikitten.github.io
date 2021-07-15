@@ -1,0 +1,20 @@
+{
+	title: "Szybszy piec",
+	x: 0.0d,
+	y: 0.0d,
+	text: [
+		"i tyle XD"
+	],
+	tasks: [{
+		uid: "9a0f6dfd",
+		type: "item",
+		items: [{
+			item: "ic2:te 1 46"
+		}]
+	}],
+	rewards: [{
+		uid: "7e5ef82d",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

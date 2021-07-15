@@ -1,0 +1,16 @@
+{
+	x: 7.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "063c7b26",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:water_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "589f33a3",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

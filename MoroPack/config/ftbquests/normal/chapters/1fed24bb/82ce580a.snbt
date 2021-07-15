@@ -1,0 +1,16 @@
+{
+	x: 7.5d,
+	y: -5.0d,
+	tasks: [{
+		uid: "b19ed662",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:redstone_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "5fc14652",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

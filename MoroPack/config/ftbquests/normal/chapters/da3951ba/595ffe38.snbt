@@ -1,0 +1,25 @@
+{
+	title: "Miecz z dwoma ostrzami??",
+	x: 1.5d,
+	y: 1.0d,
+	text: [
+		"Że niby jak ja mam tym machać?!"
+	],
+	dependencies: [
+		"b78fb259"
+	],
+	tasks: [{
+		uid: "562b035c",
+		type: "item",
+		items: [{
+			item: "divinerpg:wildwood_blade"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "9e1cb9de",
+		type: "ftbmoney:money",
+		ftb_money: 70L
+	}]
+}

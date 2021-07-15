@@ -1,0 +1,23 @@
+{
+	title: "Fioletowy coś, co drogi jest w cholerę",
+	x: -12.0d,
+	y: -4.0d,
+	text: [
+		"\"How i crafted 1 item 100 days hardcore apocalypse\" XDD"
+	],
+	dependencies: [
+		"391681dc"
+	],
+	tasks: [{
+		uid: "07f1b1e1",
+		type: "item",
+		items: [{
+			item: "draconicevolution:crafting_injector 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "920e0b42",
+		type: "ftbmoney:money",
+		ftb_money: 40L
+	}]
+}

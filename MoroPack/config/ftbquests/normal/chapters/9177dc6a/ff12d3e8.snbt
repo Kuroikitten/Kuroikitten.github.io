@@ -1,0 +1,25 @@
+{
+	title: "Pudełko baterii?",
+	x: -2.0d,
+	y: 0.0d,
+	text: [
+		"Ale połączone szeregowo czy równolegle?"
+	],
+	dependencies: [
+		"d45d737f"
+	],
+	tasks: [{
+		uid: "bfec48c4",
+		type: "item",
+		items: [{
+			id: "ic2:te",
+			tag: {},
+			Damage: 72s
+		}]
+	}],
+	rewards: [{
+		uid: "89b04433",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

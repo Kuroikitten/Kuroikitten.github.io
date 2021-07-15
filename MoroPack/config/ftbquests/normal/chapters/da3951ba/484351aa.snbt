@@ -1,0 +1,25 @@
+{
+	title: "Ostateczne ostrze!",
+	x: 6.0d,
+	y: 1.0d,
+	text: [
+		"Jaki infinity blade?"
+	],
+	dependencies: [
+		"25993e84"
+	],
+	tasks: [{
+		uid: "73f59caa",
+		type: "item",
+		items: [{
+			item: "divinerpg:mortum_blade"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "c4f438ef",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

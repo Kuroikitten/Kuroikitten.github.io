@@ -1,0 +1,16 @@
+{
+	x: 14.5d,
+	y: -2.0d,
+	tasks: [{
+		uid: "844926e2",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:aluminum_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "c5dc99da",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

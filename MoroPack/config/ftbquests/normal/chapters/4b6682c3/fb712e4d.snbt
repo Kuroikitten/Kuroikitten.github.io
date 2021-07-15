@@ -1,0 +1,23 @@
+{
+	title: "To się na mnie patrzy!",
+	x: 8.0d,
+	y: -1.5d,
+	text: [
+		"Rzuć okiem!"
+	],
+	dependencies: [
+		"1475e44f"
+	],
+	tasks: [{
+		uid: "7c3ced70",
+		type: "item",
+		items: [{
+			item: "minecraft:ender_eye"
+		}]
+	}],
+	rewards: [{
+		uid: "3675137a",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

@@ -1,0 +1,23 @@
+{
+	title: "Lecim na Szczecin!",
+	x: 6.0d,
+	y: 0.0d,
+	text: [
+		"Czemu tu tak ciemno?"
+	],
+	dependencies: [
+		"4d22c51f"
+	],
+	tasks: [{
+		uid: "76a5a920",
+		type: "item",
+		items: [{
+			item: "divinerpg:skythern_block"
+		}]
+	}],
+	rewards: [{
+		uid: "1fd5e996",
+		type: "ftbmoney:money",
+		ftb_money: 80L
+	}]
+}

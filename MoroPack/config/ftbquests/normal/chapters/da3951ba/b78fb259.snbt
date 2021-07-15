@@ -1,0 +1,23 @@
+{
+	title: "Kolejne dziwne portale",
+	x: 1.5d,
+	y: 0.0d,
+	text: [
+		"Jeszcze parę ich będzie!"
+	],
+	dependencies: [
+		"206cb040"
+	],
+	tasks: [{
+		uid: "6ca2ec9d",
+		type: "item",
+		items: [{
+			item: "divinerpg:eden_block"
+		}]
+	}],
+	rewards: [{
+		uid: "3e5265cb",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

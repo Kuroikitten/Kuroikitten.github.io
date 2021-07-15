@@ -1,0 +1,16 @@
+{
+	x: 2.5d,
+	y: -14.0d,
+	tasks: [{
+		uid: "37bedb6e",
+		type: "item",
+		items: [{
+			item: "mysticalagradditions:tier6_inferium_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "f6069cf0",
+		type: "ftbmoney:money",
+		ftb_money: 60L
+	}]
+}

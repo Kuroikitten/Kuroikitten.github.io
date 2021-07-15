@@ -1,0 +1,13 @@
+{
+	x: -1.0d,
+	y: 18.5d,
+	tasks: [{
+		uid: "12ba8c5f",
+		type: "item",
+		items: [{
+			item: "avaritia:infinity_hoe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

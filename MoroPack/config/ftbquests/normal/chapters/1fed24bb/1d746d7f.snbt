@@ -1,0 +1,16 @@
+{
+	x: 4.5d,
+	y: -5.0d,
+	tasks: [{
+		uid: "76381adf",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:spider_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "0e40251d",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

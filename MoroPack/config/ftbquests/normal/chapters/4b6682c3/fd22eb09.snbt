@@ -1,0 +1,14 @@
+{
+	title: "This modpack is WIP!",
+	x: -2.0d,
+	y: 0.0d,
+	text: [
+		"Just lettin' you know, foa it's targeted at Polish players(quests are in Polish), also some quest tabs are unfinished, so be patient ;)",
+		"PL: Chciałbym oznajmić, że paczka jest jeszcze nie dokończona i niektóre przedmioty/questy albo nie działają albo nie istnieją. Proszę o cierpliwość i wyrozumiałość"
+	],
+	tasks: [{
+		uid: "0a32a310",
+		type: "checkmark",
+		title: "Jasne!/Clear!"
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 32.5d,
+	y: -8.0d,
+	tasks: [{
+		uid: "7c5c2a98",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:energetic_alloy_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "07571026",
+		type: "ftbmoney:money",
+		ftb_money: 40L
+	}]
+}

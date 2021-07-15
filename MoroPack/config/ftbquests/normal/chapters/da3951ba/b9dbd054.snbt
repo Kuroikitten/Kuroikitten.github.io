@@ -1,0 +1,15 @@
+{
+	title: "Dungeon? Ktoś powiedział Dun?",
+	x: -2.5d,
+	y: 0.5d,
+	text: [
+		"Byleby nie zabłądzić!"
+	],
+	tasks: [{
+		uid: "2d7b1e48",
+		type: "item",
+		items: [{
+			item: "divinerpg:arcana_portal_frame"
+		}]
+	}]
+}

@@ -1,0 +1,25 @@
+{
+	title: "Kolejne dziwne literki...",
+	x: -4.0d,
+	y: 0.0d,
+	text: [
+		"Ważne, że ma większą pojemność!"
+	],
+	dependencies: [
+		"8ed2bbac"
+	],
+	tasks: [{
+		uid: "9998a874",
+		type: "item",
+		items: [{
+			id: "ic2:te",
+			tag: {},
+			Damage: 74s
+		}]
+	}],
+	rewards: [{
+		uid: "29329b4b",
+		type: "ftbmoney:money",
+		ftb_money: 40L
+	}]
+}

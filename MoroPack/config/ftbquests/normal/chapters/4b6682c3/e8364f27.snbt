@@ -1,0 +1,30 @@
+{
+	x: 8.0d,
+	y: 0.0d,
+	text: [
+		"To twój pierwszy, ale zdecydowanie nie ostatni raz!"
+	],
+	dependencies: [
+		"3e9b4205"
+	],
+	tasks: [{
+		uid: "3fb72d02",
+		type: "kill",
+		title: "Zabij Withera",
+		icon: {
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "minecraft:wither_skeleton"
+				}
+			}
+		},
+		entity: "minecraft:wither",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "d47a013c",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

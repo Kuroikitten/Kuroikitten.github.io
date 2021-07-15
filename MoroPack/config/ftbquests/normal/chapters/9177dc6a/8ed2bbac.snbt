@@ -1,0 +1,25 @@
+{
+	title: "Nie wiem co ten skrót oznacza.",
+	x: -3.0d,
+	y: 0.0d,
+	text: [
+		"Po co ci to?"
+	],
+	dependencies: [
+		"ff12d3e8"
+	],
+	tasks: [{
+		uid: "3d4e5d28",
+		type: "item",
+		items: [{
+			id: "ic2:te",
+			tag: {},
+			Damage: 73s
+		}]
+	}],
+	rewards: [{
+		uid: "c82240d4",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

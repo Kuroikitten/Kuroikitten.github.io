@@ -1,0 +1,19 @@
+{
+	x: -0.5d,
+	y: -1.0d,
+	dependencies: [
+		"690e8fa6"
+	],
+	tasks: [{
+		uid: "a51b3471",
+		type: "item",
+		items: [{
+			item: "refinedstorage:fluid_storage_part"
+		}]
+	}],
+	rewards: [{
+		uid: "c3348283",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

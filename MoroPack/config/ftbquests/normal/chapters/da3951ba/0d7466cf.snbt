@@ -1,0 +1,23 @@
+{
+	title: "To wyrko nie wygląda zachęcająco...",
+	x: 7.5d,
+	y: 0.0d,
+	text: [
+		"Ah co mi tam, Przecież nie stracę wszystkich przedmiotów prawda? Prawda? Halo? ..."
+	],
+	dependencies: [
+		"25993e84"
+	],
+	tasks: [{
+		uid: "f291313e",
+		type: "item",
+		items: [{
+			item: "divinerpg:nightmare_bed"
+		}]
+	}],
+	rewards: [{
+		uid: "cb34c7c2",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

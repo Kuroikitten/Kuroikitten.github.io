@@ -1,0 +1,29 @@
+{
+	title: "Początki początków",
+	icon: "minecraft:grass",
+	disable_toast: true,
+	x: 0.0d,
+	y: 0.0d,
+	text: [
+		"Skoro tu już jesteś i rozpoczynasz sowją przygodę, zacznijmy od czegoś prostego!"
+	],
+	dependencies: [
+		"fd22eb09"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "313ea6fd",
+		type: "dimension",
+		icon: "minecraft:sapling",
+		dim: 0
+	},
+	{
+		uid: "0c1aa398",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "c54a4800",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

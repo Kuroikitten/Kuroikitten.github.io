@@ -1,0 +1,19 @@
+{
+	x: 0.0d,
+	y: -14.5d,
+	dependencies: [
+		"7ec3e77c"
+	],
+	tasks: [{
+		uid: "f3e82319",
+		type: "item",
+		items: [{
+			item: "mysticalagradditions:insanium"
+		}]
+	}],
+	rewards: [{
+		uid: "41c72c12",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

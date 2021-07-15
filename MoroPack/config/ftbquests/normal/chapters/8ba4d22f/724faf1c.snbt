@@ -1,0 +1,25 @@
+{
+	title: "Kulka do ustawiania czegoś",
+	x: -6.0d,
+	y: 0.5d,
+	text: [
+		"A bo ja wiem co to robi?"
+	],
+	dependencies: [
+		"a432a101"
+	],
+	tasks: [{
+		uid: "a9f1bebe",
+		type: "item",
+		items: [{
+			item: "draconicevolution:dislocator"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "17cd58a2",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

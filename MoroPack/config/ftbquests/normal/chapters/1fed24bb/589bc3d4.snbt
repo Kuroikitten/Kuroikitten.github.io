@@ -1,0 +1,16 @@
+{
+	x: 7.5d,
+	y: -8.0d,
+	tasks: [{
+		uid: "99feb598",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:lumium_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "c2d21377",
+		type: "ftbmoney:money",
+		ftb_money: 40L
+	}]
+}

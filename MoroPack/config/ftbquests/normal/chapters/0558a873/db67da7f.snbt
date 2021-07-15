@@ -1,0 +1,23 @@
+{
+	title: "NIEWIDZIALNE RAMKI!!11!!1",
+	x: -1.0d,
+	y: 0.0d,
+	text: [
+		"Ooooo takhhhh, zaspokaja mnie to..."
+	],
+	dependencies: [
+		"a286a847"
+	],
+	tasks: [{
+		uid: "9c139ea3",
+		type: "item",
+		items: [{
+			item: "tconstruct:fancy_frame 1 6"
+		}]
+	}],
+	rewards: [{
+		uid: "dabffadc",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

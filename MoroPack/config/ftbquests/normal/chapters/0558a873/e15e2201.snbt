@@ -1,0 +1,32 @@
+{
+	title: "Nowa forma podróży!",
+	x: 1.5d,
+	y: 1.0d,
+	text: [
+		"Mam założyć te oślizłe buty?!"
+	],
+	dependencies: [
+		"a3fab4ed"
+	],
+	tasks: [{
+		uid: "ed89f2f8",
+		type: "item",
+		items: [{
+			item: "tconstruct:slime_boots"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "b3a04cfc",
+		type: "item",
+		items: [{
+			item: "tconstruct:slimesling"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "04ff0d01",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

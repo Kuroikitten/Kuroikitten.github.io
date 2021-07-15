@@ -1,0 +1,23 @@
+{
+	title: "Manulyn! Manylyn! Manyluyn!",
+	x: 5.0d,
+	y: 0.0d,
+	text: [
+		"I tak nikogo nie obchodzi jak to się wymawia. To fioletowe z ardite i cobaltu XD"
+	],
+	dependencies: [
+		"fd299977"
+	],
+	tasks: [{
+		uid: "54219ae9",
+		type: "item",
+		items: [{
+			item: "tconstruct:ingots 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "2f557e5e",
+		type: "ftbmoney:money",
+		ftb_money: 40L
+	}]
+}

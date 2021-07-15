@@ -1,0 +1,22 @@
+{
+	title: "Początek podróży",
+	x: -1.5d,
+	y: 0.0d,
+	text: [
+		"Znowu...?"
+	],
+	tasks: [{
+		uid: "18985d57",
+		type: "item",
+		items: [{
+			item: "divinerpg:twilight_clock"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "881f3a56",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 3.5d,
+	y: -5.0d,
+	tasks: [{
+		uid: "8a2fcded",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:glowstone_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "a14900af",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

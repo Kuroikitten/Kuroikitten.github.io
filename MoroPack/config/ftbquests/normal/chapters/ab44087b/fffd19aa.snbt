@@ -1,0 +1,24 @@
+{
+	title: "Rakieta ciężarowa",
+	x: -2.0d,
+	y: -2.5d,
+	text: [
+		"Nie, nie ma przyczepy XD"
+	],
+	dependencies: [
+		"d286810c"
+	],
+	tasks: [{
+		uid: "739b80fb",
+		type: "item",
+		items: [{
+			item: "galacticraftplanets:rocket_t2 1 11"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "3fe27546",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

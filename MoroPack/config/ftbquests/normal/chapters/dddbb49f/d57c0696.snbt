@@ -1,0 +1,19 @@
+{
+	x: -1.0d,
+	y: 0.0d,
+	dependencies: [
+		"690e8fa6"
+	],
+	tasks: [{
+		uid: "d6e70553",
+		type: "item",
+		items: [{
+			item: "refinedstorage:grid 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "ee916583",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

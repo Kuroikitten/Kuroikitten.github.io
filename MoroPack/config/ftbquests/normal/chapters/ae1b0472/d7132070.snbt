@@ -1,0 +1,27 @@
+{
+	title: "Mam się tym ciąć?!",
+	x: -1.0d,
+	y: 0.0d,
+	text: [
+		"A dostanę plasterka w żyrafy?"
+	],
+	dependencies: [
+		"31ada3f8"
+	],
+	tasks: [{
+		uid: "c7acbb6e",
+		type: "item",
+		items: [{
+			id: "bloodmagic:sacrificial_dagger",
+			tag: {
+				sacrifice: 0b
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f98781c2",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 7.5d,
+	y: -11.0d,
+	tasks: [{
+		uid: "2e07ad0c",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:refined_obsidian_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "28ddaf3a",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

@@ -1,0 +1,25 @@
+{
+	title: "Młotek Inżyniera!",
+	x: 0.0d,
+	y: 1.0d,
+	text: [
+		"Teraz możesz komuś przywalić z klasą!"
+	],
+	dependencies: [
+		"1d4b81aa"
+	],
+	tasks: [{
+		uid: "9fb4b93c",
+		type: "item",
+		items: [{
+			item: "ic2:forge_hammer"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "034582e0",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

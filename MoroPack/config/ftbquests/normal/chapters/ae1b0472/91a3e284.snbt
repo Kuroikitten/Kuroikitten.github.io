@@ -1,0 +1,21 @@
+{
+	x: -1.0d,
+	y: -10.0d,
+	dependencies: [
+		"9432b07c"
+	],
+	tasks: [{
+		uid: "3ce59262",
+		type: "item",
+		items: [{
+			item: "bloodmagic:sigil_water"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "0b4c17ce",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

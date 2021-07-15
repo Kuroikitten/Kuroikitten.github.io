@@ -1,0 +1,24 @@
+{
+	title: "Jakieś czorne szkieletory",
+	x: 6.5d,
+	y: 0.0d,
+	text: [
+		"Na kij ci te czaszki?"
+	],
+	dependencies: [
+		"55b33cb4"
+	],
+	tasks: [{
+		uid: "efaf37bd",
+		type: "item",
+		items: [{
+			item: "minecraft:skull 1 1"
+		}],
+		count: 3L
+	}],
+	rewards: [{
+		uid: "f4dc8952",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

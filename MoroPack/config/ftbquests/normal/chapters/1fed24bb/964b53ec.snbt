@@ -1,0 +1,16 @@
+{
+	x: 15.5d,
+	y: -8.0d,
+	tasks: [{
+		uid: "9f19183f",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:malachite_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "0a97c988",
+		type: "ftbmoney:money",
+		ftb_money: 40L
+	}]
+}

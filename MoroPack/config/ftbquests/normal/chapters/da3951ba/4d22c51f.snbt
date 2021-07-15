@@ -1,0 +1,23 @@
+{
+	title: "Poprzedni był ruszofy",
+	x: 4.5d,
+	y: 0.0d,
+	text: [
+		"Następny Zielony! Pls Pls Pls"
+	],
+	dependencies: [
+		"2305f3bd"
+	],
+	tasks: [{
+		uid: "6bb0c14d",
+		type: "item",
+		items: [{
+			item: "divinerpg:apalachia_block"
+		}]
+	}],
+	rewards: [{
+		uid: "cae05f66",
+		type: "ftbmoney:money",
+		ftb_money: 70L
+	}]
+}

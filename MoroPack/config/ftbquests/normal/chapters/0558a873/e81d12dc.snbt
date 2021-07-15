@@ -1,0 +1,23 @@
+{
+	title: "Kobold! yyy... Kobalt!",
+	x: 3.0d,
+	y: 0.0d,
+	text: [
+		"Tak naprawdę zbierasz go tylko po to, żeby zebrać kolejny materiał..."
+	],
+	dependencies: [
+		"992c39a9"
+	],
+	tasks: [{
+		uid: "e57d1a60",
+		type: "item",
+		items: [{
+			item: "tconstruct:ingots"
+		}]
+	}],
+	rewards: [{
+		uid: "51a0c390",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

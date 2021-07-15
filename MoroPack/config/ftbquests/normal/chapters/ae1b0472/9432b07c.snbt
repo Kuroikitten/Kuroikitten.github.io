@@ -1,0 +1,23 @@
+{
+	title: "Zbierz je wszystkie!",
+	x: 0.0d,
+	y: -6.0d,
+	text: [
+		"Ah shit! Here we go again..."
+	],
+	dependencies: [
+		"31ada3f8"
+	],
+	tasks: [{
+		uid: "51f69cb0",
+		type: "item",
+		items: [{
+			item: "bloodmagic:soul_forge"
+		}]
+	}],
+	rewards: [{
+		uid: "1e20d776",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

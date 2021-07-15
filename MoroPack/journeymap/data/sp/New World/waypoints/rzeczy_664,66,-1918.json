@@ -1,0 +1,18 @@
+{
+  "id": "rzeczy_664,66,-1918",
+  "name": "rzeczy",
+  "icon": "waypoint-normal.png",
+  "x": 664,
+  "y": 66,
+  "z": -1918,
+  "r": 154,
+  "g": 252,
+  "b": 111,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

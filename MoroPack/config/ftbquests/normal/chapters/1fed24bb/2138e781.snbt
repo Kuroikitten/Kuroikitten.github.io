@@ -1,0 +1,16 @@
+{
+	x: 14.5d,
+	y: -5.0d,
+	tasks: [{
+		uid: "39097414",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:saltpeter_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "7a89cf78",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

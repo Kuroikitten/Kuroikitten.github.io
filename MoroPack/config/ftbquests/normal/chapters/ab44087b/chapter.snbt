@@ -1,0 +1,7 @@
+{
+	title: "Podróż w kosmos!",
+	icon: "galacticraftcore:rocket_t1",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

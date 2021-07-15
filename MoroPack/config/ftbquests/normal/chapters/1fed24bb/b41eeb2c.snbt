@@ -1,0 +1,16 @@
+{
+	x: 28.5d,
+	y: -8.0d,
+	tasks: [{
+		uid: "371f0b34",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:elementium_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "35a3fe23",
+		type: "ftbmoney:money",
+		ftb_money: 40L
+	}]
+}

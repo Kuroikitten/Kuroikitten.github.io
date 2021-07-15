@@ -1,0 +1,16 @@
+{
+	x: 2.5d,
+	y: -8.0d,
+	tasks: [{
+		uid: "31a2688a",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:tier4_inferium_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "50083a54",
+		type: "ftbmoney:money",
+		ftb_money: 40L
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 13.5d,
+	y: -2.0d,
+	tasks: [{
+		uid: "14464c7d",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:copper_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "154e0c44",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

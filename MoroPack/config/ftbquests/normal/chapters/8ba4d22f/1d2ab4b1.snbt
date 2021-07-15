@@ -1,0 +1,23 @@
+{
+	title: "Błyszczący proszek",
+	x: -5.5d,
+	y: -2.5d,
+	text: [
+		"Nie, to nie to co myślisz XD Nie licz też na żadne nagrody. Nie będę ci tego ułatwiał. Prosty modzik EZ"
+	],
+	dependencies: [
+		"a432a101"
+	],
+	tasks: [{
+		uid: "71bfc39d",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconium_dust"
+		}]
+	}],
+	rewards: [{
+		uid: "849a6966",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	title: "Skrzynki? Pfff staroć!",
+	icon: {
+		id: "refinedstorage:controller",
+		tag: {
+			Energy: 32000
+		},
+		Damage: 1s
+	},
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: "hexagon"
+}

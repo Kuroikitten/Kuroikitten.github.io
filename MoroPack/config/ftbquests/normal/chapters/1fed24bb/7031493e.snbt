@@ -1,0 +1,19 @@
+{
+	x: -2.0d,
+	y: -1.5d,
+	dependencies: [
+		"c9a7c186"
+	],
+	tasks: [{
+		uid: "ba40137a",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:prudentium_furnace"
+		}]
+	}],
+	rewards: [{
+		uid: "bae61aea",
+		type: "ftbmoney:money",
+		ftb_money: 40L
+	}]
+}

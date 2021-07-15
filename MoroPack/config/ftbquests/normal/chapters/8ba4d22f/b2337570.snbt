@@ -1,0 +1,23 @@
+{
+	title: "Wygląda jak to z Tinkersa...",
+	x: -4.5d,
+	y: -2.5d,
+	text: [
+		"I waży chyba z tonę"
+	],
+	dependencies: [
+		"1d2ab4b1"
+	],
+	tasks: [{
+		uid: "2f4c1454",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconium_ingot"
+		}]
+	}],
+	rewards: [{
+		uid: "dbd11725",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

@@ -1,0 +1,60 @@
+{
+	title: "Zestaw każdego rzemieślnika",
+	x: 1.0d,
+	y: 0.0d,
+	text: [
+		"A gdzie mój zestaw małego alchemika, który miałem dostac na święta?!"
+	],
+	dependencies: [
+		"a286a847"
+	],
+	tasks: [{
+		uid: "2fb436b6",
+		type: "item",
+		items: [{
+			id: "tconstruct:tooltables",
+			tag: {
+				textureBlock: {
+					id: "minecraft:planks",
+					Count: 1b,
+					Damage: 0s
+				}
+			},
+			Damage: 1s
+		}]
+	},
+	{
+		uid: "0fbb9071",
+		type: "item",
+		items: [{
+			id: "tconstruct:tooltables",
+			tag: {
+				textureBlock: {
+					id: "minecraft:log",
+					Count: 1b,
+					Damage: 0s
+				}
+			},
+			Damage: 2s
+		}]
+	},
+	{
+		uid: "2b20b26a",
+		type: "item",
+		items: [{
+			item: "tconstruct:tooltables 1 4"
+		}]
+	},
+	{
+		uid: "16fbcf6c",
+		type: "item",
+		items: [{
+			item: "tconstruct:tooltables 1 3"
+		}]
+	}],
+	rewards: [{
+		uid: "e39426fc",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

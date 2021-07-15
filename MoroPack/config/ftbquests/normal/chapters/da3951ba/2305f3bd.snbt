@@ -1,0 +1,23 @@
+{
+	title: "Ciekawe co teraz...",
+	x: 3.0d,
+	y: 0.0d,
+	text: [
+		"Silniejsi przeciwnicy!"
+	],
+	dependencies: [
+		"b78fb259"
+	],
+	tasks: [{
+		uid: "97b0f478",
+		type: "item",
+		items: [{
+			item: "divinerpg:wildwood_block"
+		}]
+	}],
+	rewards: [{
+		uid: "9e7d09c9",
+		type: "ftbmoney:money",
+		ftb_money: 60L
+	}]
+}

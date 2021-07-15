@@ -1,0 +1,22 @@
+{
+	x: -3.0d,
+	y: -9.0d,
+	dependencies: [
+		"9432b07c"
+	],
+	tasks: [{
+		uid: "257f13a6",
+		type: "item",
+		items: [{
+			id: "bloodmagic:sigil_elemental_affinity",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "fa671f98",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

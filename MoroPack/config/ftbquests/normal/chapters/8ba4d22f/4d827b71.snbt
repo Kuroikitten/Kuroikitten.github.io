@@ -1,0 +1,23 @@
+{
+	title: "Lepszy rdzeń energetyczny!",
+	x: -4.5d,
+	y: 1.5d,
+	text: [
+		"..."
+	],
+	dependencies: [
+		"5ecb4027"
+	],
+	tasks: [{
+		uid: "3487df89",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconic_energy_core"
+		}]
+	}],
+	rewards: [{
+		uid: "b1f238d7",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

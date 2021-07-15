@@ -1,0 +1,16 @@
+{
+	x: 25.5d,
+	y: -8.0d,
+	tasks: [{
+		uid: "8cbd8f4b",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:meteoric_iron_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "9a47b48f",
+		type: "ftbmoney:money",
+		ftb_money: 40L
+	}]
+}

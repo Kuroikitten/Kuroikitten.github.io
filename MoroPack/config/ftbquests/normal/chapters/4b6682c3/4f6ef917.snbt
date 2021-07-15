@@ -1,0 +1,24 @@
+{
+	title: "Pokonałem Smoka!",
+	x: 9.5d,
+	y: 0.0d,
+	text: [
+		"Pffff tylko raz? Pozwól, że przedstawię ci Draconic Evolution :D"
+	],
+	dependencies: [
+		"4b5a1cf5"
+	],
+	tasks: [{
+		uid: "2a656167",
+		type: "kill",
+		title: "Zabij Ender Dragon",
+		icon: "minecraft:skull 1 5",
+		entity: "minecraft:ender_dragon",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "259e785b",
+		type: "ftbmoney:money",
+		ftb_money: 40L
+	}]
+}

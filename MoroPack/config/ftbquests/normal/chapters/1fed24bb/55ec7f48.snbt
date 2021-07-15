@@ -1,0 +1,16 @@
+{
+	x: 26.5d,
+	y: -5.0d,
+	tasks: [{
+		uid: "ec81875e",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:thaumium_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "e1c395a2",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

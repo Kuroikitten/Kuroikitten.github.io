@@ -1,0 +1,21 @@
+{
+	x: 3.5d,
+	y: -3.5d,
+	dependencies: [
+		"d1f99031"
+	],
+	tasks: [{
+		uid: "166b1b9f",
+		type: "item",
+		items: [{
+			item: "deepmoblearning:data_model_creeper"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "fe3f09e0",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

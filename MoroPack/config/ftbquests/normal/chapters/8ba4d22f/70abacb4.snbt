@@ -1,0 +1,23 @@
+{
+	title: "Co to skyblock?",
+	x: -5.5d,
+	y: -6.0d,
+	text: [
+		"Cóż, każde ułatwienie się liczy!"
+	],
+	dependencies: [
+		"a432a101"
+	],
+	tasks: [{
+		uid: "e76178f4",
+		type: "item",
+		items: [{
+			item: "draconicevolution:grinder"
+		}]
+	}],
+	rewards: [{
+		uid: "54d91546",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

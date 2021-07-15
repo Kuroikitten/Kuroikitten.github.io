@@ -1,0 +1,16 @@
+{
+	x: 17.5d,
+	y: -2.0d,
+	tasks: [{
+		uid: "5fb8c2b5",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:rubber_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "4bd52abe",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

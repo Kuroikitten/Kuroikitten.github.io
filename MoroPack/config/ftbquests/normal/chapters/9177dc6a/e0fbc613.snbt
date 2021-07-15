@@ -1,0 +1,23 @@
+{
+	title: "Tylko nie wybuchaj...",
+	x: 3.0d,
+	y: 0.0d,
+	text: [
+		"Ostrzeżenie! Generator jest całkowicie \"bezpieczny\", i nie, nie powiem, dlaczego bezpieczny jest w cudzysłowiu ;)"
+	],
+	dependencies: [
+		"e791a046"
+	],
+	tasks: [{
+		uid: "1a7da611",
+		type: "item",
+		items: [{
+			item: "ic2:te 1 22"
+		}]
+	}],
+	rewards: [{
+		uid: "3f0e5aff",
+		type: "ftbmoney:money",
+		ftb_money: 40L
+	}]
+}

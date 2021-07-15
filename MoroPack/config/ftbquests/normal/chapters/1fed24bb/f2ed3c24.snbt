@@ -1,0 +1,16 @@
+{
+	x: 8.5d,
+	y: -11.0d,
+	tasks: [{
+		uid: "925c83cb",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:terrasteel_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "2583c9f4",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

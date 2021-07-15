@@ -1,0 +1,22 @@
+{
+	x: 4.0d,
+	y: -5.0d,
+	dependencies: [
+		"9432b07c"
+	],
+	tasks: [{
+		uid: "96406654",
+		type: "item",
+		items: [{
+			id: "bloodmagic:sigil_blood_light",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "74089d16",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

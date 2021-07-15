@@ -1,0 +1,20 @@
+{
+	x: -1.0d,
+	y: 2.0d,
+	dependencies: [
+		"00f3f371"
+	],
+	tasks: [{
+		uid: "198edb3e",
+		type: "item",
+		items: [{
+			item: "refinedstorage:wireless_fluid_grid"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "0a583c95",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

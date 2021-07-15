@@ -1,0 +1,16 @@
+{
+	x: 10.5d,
+	y: -2.0d,
+	tasks: [{
+		uid: "a2cf1c3e",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:slime_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "95987c73",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

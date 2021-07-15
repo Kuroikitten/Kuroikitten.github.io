@@ -1,0 +1,16 @@
+{
+	x: 3.5d,
+	y: -14.0d,
+	tasks: [{
+		uid: "1f957e44",
+		type: "item",
+		items: [{
+			item: "mysticalagradditions:dragon_egg_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "9da14a4b",
+		type: "ftbmoney:money",
+		ftb_money: 60L
+	}]
+}

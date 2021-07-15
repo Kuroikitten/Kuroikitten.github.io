@@ -1,0 +1,16 @@
+{
+	x: 12.5d,
+	y: -8.0d,
+	tasks: [{
+		uid: "b394c856",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:constantan_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "18e033e6",
+		type: "ftbmoney:money",
+		ftb_money: 40L
+	}]
+}

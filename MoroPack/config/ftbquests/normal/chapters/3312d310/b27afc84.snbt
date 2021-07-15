@@ -1,0 +1,11 @@
+{
+	x: -1.0d,
+	y: 12.0d,
+	tasks: [{
+		uid: "41bab2e9",
+		type: "item",
+		items: [{
+			item: "avaritia:singularity 1 6"
+		}]
+	}]
+}

@@ -1,0 +1,25 @@
+{
+	title: "To zaczyna być dziwne...",
+	x: 3.0d,
+	y: 1.0d,
+	text: [
+		"Kto by się zastanawiał? Zadaje obrażenia? Większe od poprzedniego? To po co narzekasz!?"
+	],
+	dependencies: [
+		"2305f3bd"
+	],
+	tasks: [{
+		uid: "33e8b16c",
+		type: "item",
+		items: [{
+			item: "divinerpg:apalachia_blade"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "8c66b163",
+		type: "ftbmoney:money",
+		ftb_money: 80L
+	}]
+}

@@ -1,0 +1,23 @@
+{
+	title: "Mending ale inaczej?",
+	x: -0.5d,
+	y: -1.0d,
+	text: [
+		"No coś w ten deseń XD"
+	],
+	dependencies: [
+		"a286a847"
+	],
+	tasks: [{
+		uid: "f6cab178",
+		type: "item",
+		items: [{
+			item: "tconstruct:materials 1 19"
+		}]
+	}],
+	rewards: [{
+		uid: "624a9d07",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

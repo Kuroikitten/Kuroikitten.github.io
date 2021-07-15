@@ -1,0 +1,23 @@
+{
+	title: "Który to już raz?",
+	x: 2.0d,
+	y: 0.0d,
+	text: [
+		"Jakby nie patrzeć, kazdy od czegoś zaczyna..."
+	],
+	dependencies: [
+		"936b31b8"
+	],
+	tasks: [{
+		uid: "6e57b558",
+		type: "item",
+		items: [{
+			item: "minecraft:crafting_table"
+		}]
+	}],
+	rewards: [{
+		uid: "cfb4ed09",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

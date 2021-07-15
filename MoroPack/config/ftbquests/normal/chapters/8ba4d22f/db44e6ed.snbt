@@ -1,0 +1,23 @@
+{
+	title: "Kostka do horrendalnie drogich craftingów",
+	x: -10.5d,
+	y: -2.5d,
+	text: [
+		"I życie staje się lepsze!"
+	],
+	dependencies: [
+		"a432a101"
+	],
+	tasks: [{
+		uid: "824c695b",
+		type: "item",
+		items: [{
+			item: "draconicevolution:fusion_crafting_core"
+		}]
+	}],
+	rewards: [{
+		uid: "546f0db7",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

@@ -1,0 +1,23 @@
+{
+	title: "Okej... to zaczyna wyglądać na masochizm...",
+	x: -7.5d,
+	y: 1.5d,
+	text: [
+		"Co poradzisz, jakiś dzban ustawiał te questy ;)"
+	],
+	dependencies: [
+		"64179062"
+	],
+	tasks: [{
+		uid: "0186cd5d",
+		type: "item",
+		items: [{
+			item: "draconicevolution:wyvern_core"
+		}]
+	}],
+	rewards: [{
+		uid: "5fde3eff",
+		type: "ftbmoney:money",
+		ftb_money: 40L
+	}]
+}

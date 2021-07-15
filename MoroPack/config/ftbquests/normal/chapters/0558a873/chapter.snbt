@@ -1,0 +1,7 @@
+{
+	title: "Tinker Tinker!",
+	icon: "tconstruct:casting",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: "hexagon"
+}

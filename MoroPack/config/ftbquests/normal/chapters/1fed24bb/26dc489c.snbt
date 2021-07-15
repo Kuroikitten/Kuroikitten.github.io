@@ -1,0 +1,16 @@
+{
+	x: 8.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "18ce1b95",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:ice_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "7f9c69fb",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

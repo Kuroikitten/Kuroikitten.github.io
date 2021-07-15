@@ -1,0 +1,23 @@
+{
+	title: "Zostałem naukowcem-zabójcą!",
+	x: 0.0d,
+	y: -4.5d,
+	text: [
+		"Kółko jest niesymetryczne ;-;"
+	],
+	dependencies: [
+		"c2fb42d5"
+	],
+	tasks: [{
+		uid: "55be9cea",
+		type: "item",
+		items: [{
+			item: "deepmoblearning:data_model_blank"
+		}]
+	}],
+	rewards: [{
+		uid: "a090a640",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

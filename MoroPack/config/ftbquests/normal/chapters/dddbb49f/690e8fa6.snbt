@@ -1,0 +1,24 @@
+{
+	title: "Mózg operacji!",
+	x: 0.0d,
+	y: 0.0d,
+	text: [
+		"Bez tego ani rusz!"
+	],
+	tasks: [{
+		uid: "05b6d7ff",
+		type: "item",
+		items: [{
+			id: "refinedstorage:controller",
+			tag: {
+				Energy: 0
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "cc728648",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

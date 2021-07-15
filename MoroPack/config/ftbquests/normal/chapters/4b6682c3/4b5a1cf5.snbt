@@ -1,0 +1,22 @@
+{
+	title: "Koniec?",
+	icon: "minecraft:end_portal_frame",
+	x: 9.5d,
+	y: -1.5d,
+	text: [
+		"Oj nie nie byczq!"
+	],
+	dependencies: [
+		"fb712e4d"
+	],
+	tasks: [{
+		uid: "7f324f59",
+		type: "dimension",
+		dim: 1
+	}],
+	rewards: [{
+		uid: "c125c336",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

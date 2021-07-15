@@ -1,0 +1,20 @@
+{
+	x: 1.0d,
+	y: 2.0d,
+	dependencies: [
+		"e8a96c0a"
+	],
+	tasks: [{
+		uid: "2a43e989",
+		type: "item",
+		items: [{
+			item: "refinedstorage:wireless_crafting_monitor"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "4914d4f1",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

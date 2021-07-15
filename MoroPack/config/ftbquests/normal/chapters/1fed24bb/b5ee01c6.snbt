@@ -1,0 +1,16 @@
+{
+	x: 17.5d,
+	y: -5.0d,
+	tasks: [{
+		uid: "1c53daf8",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:bronze_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "f539d490",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}
