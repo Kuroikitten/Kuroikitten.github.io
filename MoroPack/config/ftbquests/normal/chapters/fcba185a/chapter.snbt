@@ -1,7 +1,0 @@
-{
-	title: "Studiowanie natury... mordując!",
-	icon: "deepmoblearning:data_model_creeper",
-	always_invisible: false,
-	group: 0,
-	default_quest_shape: "rsquare"
-}
